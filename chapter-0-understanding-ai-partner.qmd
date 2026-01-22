@@ -357,6 +357,24 @@ Start your learning journal now. For this chapter, record:
 Your journal is not for perfect answers. It's for honest reflection. Write what you really think, not what you think sounds good.
 :::
 
+## Related Materials
+
+This book is part of a comprehensive series for mastering modern software development in the AI era:
+
+**Foundational Methodology**
+
+- [Intentional Prompting: Mastering the Human-AI Development Process](https://michaelborck-books.github.io/intentional-prompting)
+
+**Python Track**
+
+- [Python Step by Step with AI: Learning with AI](https://michaelborck-books.github.io/python-step-by-step-ai) (this book) - Perfect for absolute beginners
+- [Python Jumpstart: Coding Fundamentals for the AI Era](https://michaelborck-books.github.io/python-jumpstart) - Focused Python fundamentals
+- [From Zero to Production: A Practical Python Development Pipeline](https://michaelborck-books.github.io/python-dev-book) - Professional-grade applications
+
+**Web Track**
+
+- [Web Development Step by Step: Building Business Solutions with AI](https://michaelborck-books.github.io/web-dev-step-by-ste-ai) - HTML, CSS, JavaScript, WordPress, React
+
 ## Next Steps
 
 In Chapter 1, we'll explore the fundamental pattern of all programs: Input → Process → Output. You'll use your new prompt evolution skills to discover this pattern with AI's help, then build a clear mental model of how all programs work.
