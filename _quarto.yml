@@ -14,14 +14,14 @@ profiles:
     - _quarto-epub.yml
 
 book:
-  title: "Python Step by Step: Learning with AI"
-  subtitle: "Master Python by Learning How to Think With AI"
+  title: "Think Python, Direct AI"
+  subtitle: "Computational Thinking for Beginners"
   author: "Michael Borck"
   date: "24/07/2025"
   description: "A revolutionary approach to learning Python by partnering with AI to build mental models, understand concepts, and architect solutions."
   cover-image: cover.png
-  site-url: https://michael-borck.github.io/python-step-by-step-ai
-  repo-url: https://github.com/pythonstepbystep/book
+  site-url: https://michaelborck-books.github.io/think-python-direct-ai
+  repo-url: https://github.com/michaelborck-books/think-python-direct-ai
   repo-branch: main
   repo-actions: [edit, issue]
   
@@ -76,7 +76,7 @@ book:
     collapse-level: 2
     tools:
       - icon: github
-        href: https://github.com/pythonstepbystep/book
+        href: https://github.com/michaelborck-books/think-python-direct-ai
       - icon: chat-dots
         text: AI Templates
         href: resources/ai-templates.html
