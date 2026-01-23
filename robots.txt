@@ -1,1 +1,1 @@
-Sitemap: https://michael-borck.github.io/python-step-by-step-ai/sitemap.xml
+Sitemap: https://michaelborck-books.github.io/think-python-direct-ai/sitemap.xml
