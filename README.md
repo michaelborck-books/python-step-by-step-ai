@@ -1,4 +1,4 @@
-# Python Step by Step: Learning with AI
+# Think Python, Direct AI: Computational Thinking for Beginners
 
 📚 An innovative programming textbook that embraces AI as a learning partner. Master Python by learning how to think computationally and direct AI to help you build solutions.
 
@@ -138,15 +138,15 @@ python-step-by-step-ai/
 This book is part of a comprehensive series for mastering modern software development in the AI era:
 
 ### Foundational Methodology
-- **[Intentional Prompting](https://michaelborck-books.github.io/intentional-prompting)**: Mastering the Human-AI Development Process
+- **[Conversation, Not Delegation](https://michaelborck-books.github.io/intentional-prompting)**: Mastering Human-AI Development
 
 ### Python Track
-- **[Python Step by Step with AI](https://michaelborck-books.github.io/python-step-by-step-ai)** (this book): Perfect for absolute beginners learning computational thinking
-- **[Python Foundations](https://michaelborck-books.github.io/python-foundations)**: Coding Fundamentals for the AI Era
-- **[Python Development Pipelines](https://michaelborck-books.github.io/python-development-pipelines)**: Tools and Workflows for Professional Python
+- **[Think Python, Direct AI](https://michaelborck-books.github.io/python-step-by-step-ai)** (this book): Computational Thinking for Beginners
+- **[Code Python, Consult AI](https://michaelborck-books.github.io/python-foundations)**: Python Fundamentals for the AI Era
+- **[Ship It: Python in Production](https://michaelborck-books.github.io/python-development-pipelines)**: Professional Tools and Workflows
 
 ### Web Track
-- **[Web Development Step by Step](https://michaelborck-books.github.io/web-dev-step-by-step-ai)**: Building Business Solutions with AI
+- **[Build Web, Guide AI](https://michaelborck-books.github.io/web-dev-step-by-step-ai)**: Business Web Development with AI
 
 ## 📝 License
 
