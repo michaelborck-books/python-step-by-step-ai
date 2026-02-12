@@ -225,3 +225,4 @@ $RECYCLE.BIN/
 .directory
 .Trash-*
 .nfs*
+**/*.quarto_ipynb
