@@ -20,8 +20,8 @@ book:
   date: "24/07/2025"
   description: "A revolutionary approach to learning Python by partnering with AI to build mental models, understand concepts, and architect solutions."
   cover-image: cover.png
-  site-url: https://michaelborck-books.github.io/think-python-direct-ai
-  repo-url: https://github.com/michaelborck-books/think-python-direct-ai
+  site-url: https://michael-borck.github.io/think-python-direct-ai
+  repo-url: https://github.com/michael-borck/think-python-direct-ai
   repo-branch: main
   repo-actions: [edit, issue]
   
@@ -76,7 +76,7 @@ book:
     collapse-level: 2
     tools:
       - icon: github
-        href: https://github.com/michaelborck-books/think-python-direct-ai
+        href: https://github.com/michael-borck/think-python-direct-ai
       - icon: chat-dots
         text: AI Templates
         href: resources/ai-templates.html
